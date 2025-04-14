@@ -1,0 +1,26 @@
+date,l1_category,l1_category_id,l2_category,l2_category_id,store_id,variant_id,variant_name,group_id,selling_price,mrp,in_stock,inventory,is_sponsored,image_url,brand_id,brand
+2025-04-14,Munchies,1237,Bhujia & Mixtures,1178,28.678051_77.314262,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Munchies Gift Packs,1694,28.678051_77.314262,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Namkeen Snacks,29,28.678051_77.314262,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Papad & Fryums,80,28.678051_77.314262,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Chips & Crisps,940,28.678051_77.314262,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Bhujia & Mixtures,1178,28.5045_77.012,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Munchies Gift Packs,1694,28.5045_77.012,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Namkeen Snacks,29,28.5045_77.012,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Papad & Fryums,80,28.5045_77.012,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Chips & Crisps,940,28.5045_77.012,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Bhujia & Mixtures,1178,22.596433_88.399967,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Munchies Gift Packs,1694,22.596433_88.399967,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Namkeen Snacks,29,22.596433_88.399967,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Papad & Fryums,80,22.596433_88.399967,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Chips & Crisps,940,22.596433_88.399967,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Bhujia & Mixtures,1178,23.109002_72.572998,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Munchies Gift Packs,1694,23.109002_72.572998,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Namkeen Snacks,29,23.109002_72.572998,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Papad & Fryums,80,23.109002_72.572998,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Chips & Crisps,940,23.109002_72.572998,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Bhujia & Mixtures,1178,18.958333_72.833333,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Munchies Gift Packs,1694,18.958333_72.833333,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Namkeen Snacks,29,18.958333_72.833333,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Papad & Fryums,80,18.958333_72.833333,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
+2025-04-14,Munchies,1237,Chips & Crisps,940,18.958333_72.833333,VAR123,Mocked Chips Sample,GRP456,45,50,True,100,False,https://blinkit.com/sample-image.png,BRND123,MockBrand
